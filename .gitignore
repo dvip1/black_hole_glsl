@@ -1,0 +1,9 @@
+# Build directories
+build/
+
+# Object files
+*.o
+
+# Compiled binaries
+ton618
+ton618-kn
